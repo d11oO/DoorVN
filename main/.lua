@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({IntroText = "yeu vy vch",Name = "Door (Việt Hóa)", HidePremium = false, SaveConfig = true, ConfigFolder = "DoorWS"})
+local Window = OrionLib:MakeWindow({IntroText = "m gay",Name = "Door (Việt Hóa)", HidePremium = false, SaveConfig = true, ConfigFolder = "DoorWS"})
 type ESP = {
     Object: Instance,
     Text: string,
